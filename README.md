@@ -31,7 +31,7 @@ Make sure you have Python and Flask installed.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/flask-number-guess.git
+git clone https://github.com/TediTae/flask-number-guess.git
 cd flask-number-guess
 
 # 2. (Optional) Create a virtual environment
@@ -43,3 +43,17 @@ pip install flask
 
 # 4. Run the app
 python app.py
+```
+## 🧠 Author Notes
+- This was a fun project built to reinforce Flask basics. Ideal for beginners learning routing, request handling, and dynamic content in Flask.
+
+---
+
+## 📌 License
+- This project is licensed under the MIT License — feel free to use, modify, and share it.
+
+---
+
+## 📬 Contact
+- If you have any questions, suggestions, or just want to connect — feel free to reach out!
+- tolgayilmaz1377@gmail.com
